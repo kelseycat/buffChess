@@ -1,0 +1,89 @@
+{
+	"jimmy": [{
+			"songTitle": "Boat Drinks"
+		},
+		{
+			"songTitle": "Another Saturday Night"
+		},
+		{
+			"songTitle": "Why Don't We Get Drunk"
+		},
+		{
+			"songTitle": "Nothin' But A Breeze"
+		},
+		{
+			"songTitle": "Breathe In, Breathe Out, Move On"
+		},
+		{
+			"songTitle": "Hey Good Lookin "
+		},
+		{
+			"songTitle": "Anything, Anytime, Anywhere"
+		},
+		{
+			"songTitle": "Cheeseburger In Paradise "
+		},
+		{
+			"songTitle": "What If The Hokey-Pokey Is All It Really Is About?"
+		},
+		{
+			"songTitle": "Stranded on a Sandbar"
+		}
+	],
+
+	"chesney": [{
+			"songTitle": "Beer in Mexico"
+		},
+		{
+			"songTitle": "Keg in the Closet"
+		},
+		{
+			"songTitle": "You and Tequila"
+		},
+		{
+			"songTitle": "Better as a Memory"
+		},
+		{
+			"songTitle": "Hemingway's Whiskey"
+		},
+		{
+			"songTitle": "When I See This Bar"
+		},
+		{
+			"songTitle": "Save it For a Rainy Day"
+		},
+		{
+			"songTitle": "When the Sun Goes Down"
+		},
+		{
+			"songTitle": "There Goes My Life"
+		},
+		{
+			"songTitle": "My Poor Old Heart"
+		},
+		{
+			"songTitle": "Dancin' for the Groceries"
+		},
+		{
+			"songTitle": "Key's in the Conch Shell"
+		},
+		{
+			"songTitle": "Nowhere to Go, Nowhere to Be"
+		},
+		{
+			"songTitle": "Old Blue Chair"
+		},
+		{
+			"songTitle": "Island Boy"
+		},
+		{
+			"songTitle": "Soul of a Sailor"
+		},
+		{
+			"songTitle": "Guitars and Tiki Bars"
+		},
+		{
+			"songTitle": "No Shoes, No Shirt, No Problems"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+.artistButtonClicked {
+  color: #6f9ec6; }
+
+.disabledButton {
+  opacity: 0.5;
+  cursor: not-allowed; }
+
+* {
+  margin: 0; }
+
+html, body {
+  height: 100%; }
+
+#wrapper {
+  min-height: 100%;
+  margin-bottom: -80px; }
+  #wrapper:after {
+    content: "";
+    display: block;
+    height: 80px; }
+
+#container {
+  width: 60%;
+  margin: 50px auto 0; }
+
+#footer {
+  height: 80px;
+  background: cyan; }
+
+#showTotal {
+  display: block; }
+
+#header {
+  width: 50%;
+  margin: 20 auto; }
+
+ul {
+  list-style: none;
+  padding: 30px 20px; }
+
+li {
+  display: inline;
+  padding: 0; }
+  li a {
+    text-decoration: none;
+    color: #000; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }
+
+/*# sourceMappingURL=style.css.map */
